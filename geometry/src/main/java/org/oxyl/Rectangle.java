@@ -13,7 +13,7 @@ public class Rectangle { //classe rectangle
         largeur = 1.0;
         angle = 0.0;
     }
-    public Rectangle(double centreX, double centreY, double longueur, double largeur, double angle){
+    public Rectangle(double centreX, double centreY, double longueur, double largeur, double angle){ //constructeur
         this.centreX = centreX;
         this.centreY = centreY;
         longueurEtLargeurPositive(longueur, largeur);
