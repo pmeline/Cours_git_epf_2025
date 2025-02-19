@@ -1,6 +1,6 @@
 package org.oxyl;
 
-public class Point { 
+public class Point { // j'ai écrit n'imp
     private double x, y;
 
     public Point(double x, double y) {
