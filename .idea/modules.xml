@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/geometry.iml" filepath="$PROJECT_DIR$/.idea/geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cours_git_epf_2025.iml" filepath="$PROJECT_DIR$/.idea/Cours_git_epf_2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geometry/geometry.iml" filepath="$PROJECT_DIR$/geometry/geometry.iml" />
     </modules>
   </component>
 </project>
