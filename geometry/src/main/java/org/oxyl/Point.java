@@ -1,6 +1,6 @@
 package org.oxyl;
 
-public class Point { //Point oui
+public class Point { 
     private double x, y;
 
     public Point(double x, double y) {
